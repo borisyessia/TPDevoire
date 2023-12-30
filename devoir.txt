@@ -1,0 +1,40 @@
+Question 1:
+a==>html
+Quetion 2:
+==><a>
+Question 3:
+==>d) document.getElementById('element')
+Question 4:
+==>b) color
+Question 5:
+==>a) alt
+Question 6:
+==>b) <body>
+:Question 7:
+==>a) <script>...</script>
+Question 8:
+==>a) font-size
+Question 9:
+==>a) alert()
+Question 10:
+a) <ul>
+Question 11:
+==>b) /* Comment */
+Question 12:
+==>b) innerHTML()
+Question 13:
+==>a) padding
+Question 14:
+==>a) <table>
+Question 15:
+==>c) margin: auto;
+Question 16
+:b) Math.random()
+Question 17:
+==>a) class
+Question 18:
+==>a) <form>
+Question 19:
+==>c) let myVariable;
+Question 20:
+a) line-height

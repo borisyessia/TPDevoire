@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(70, 101, 127);
+    text-align: center;
+    color: white;
+    P{
+        text-align: end;
+    }
+}
+input{
+    margin-bottom: 35px;
+}
+main{
+    background-color: rgb(186, 150, 218);
+}
+.partie0{
+display: flex;
+justify-content: center;
+}
+
+.partie1{
+display: flex;
+justify-content: center;
+
+}
+.partie2{
+display: flex;
+justify-content: center;
+
+}
+.deco{
+    background-color: white;
+    margin: 30px;
+    text-align: center;
+    padding: 30px;
+}
+.partie0 h1{
+    color: rgb(173, 173, 59);
+}
+.partie1 h1{
+    color: rgb(173, 173, 59);
+}
+.partie2 h1{
+    color: rgb(173, 173, 59);
+}
+.go{
+    position: absolute;
+    z-index: 1;
+    margin-left: 100px;
+    padding-right: 100px;
+}
